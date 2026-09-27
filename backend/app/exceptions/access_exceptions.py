@@ -1,0 +1,2 @@
+class AcessoNegadoError(Exception):
+    pass
